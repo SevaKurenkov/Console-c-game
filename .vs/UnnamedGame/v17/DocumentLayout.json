@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sevak\\source\\repos\\Console-c-game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D02FDE91-C3EF-407C-8BE7-14A8F7D1A790}|UnnamedGame\\UnnamedGame.vcxproj|C:\\Users\\sevak\\source\\repos\\Console-c-game\\UnnamedGame\\Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D02FDE91-C3EF-407C-8BE7-14A8F7D1A790}|UnnamedGame\\UnnamedGame.vcxproj|solutionrelative:UnnamedGame\\Map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Map.cpp",
+              "DocumentMoniker": "C:\\Users\\sevak\\source\\repos\\Console-c-game\\UnnamedGame\\Map.cpp",
+              "RelativeDocumentMoniker": "UnnamedGame\\Map.cpp",
+              "ToolTip": "C:\\Users\\sevak\\source\\repos\\Console-c-game\\UnnamedGame\\Map.cpp",
+              "RelativeToolTip": "UnnamedGame\\Map.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-29T15:38:33.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,5 +3,6 @@
 
 void Map::Generate()
 {
-    std::cout << "Map generated!\n";
+    std::cout << "Карта собрана!\n";
 }
+
